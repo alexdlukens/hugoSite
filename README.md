@@ -1,2 +1,0 @@
-# hugoSite
-Static Resume site
