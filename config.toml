@@ -1,0 +1,28 @@
+  baseURL = "localhost"
+  languageCode = "en-us"
+  title = "Alexander Lukens"
+  theme = "hugo-resume"
+[params]
+  address = "Chicago, IL"
+  favicon = "/favicon.ico"
+  firstName = "Alexander"
+  email = "alukens@hawk.iit.edu"
+  lastName = "Lukens"
+  phone = "1-317-409-4685"
+  profileImage = "img/alexL.jpg"
+  showEducation = true
+  showExperience = true
+  showOpenSource = true
+  showProjects = true
+  showPublications = true
+  showQr = true
+  showSkills = true
+
+[outputs]
+home = ["HTML", "JSON"]
+
+[taxonomies]
+tag = "tags"
+  
+
+  
